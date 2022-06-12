@@ -1,0 +1,13 @@
+.footerListing{
+    list-style-type: none;   
+    margin-right: 20px;
+}
+
+.footerimg{
+    margin-left: 5px;
+}
+
+.footerAnchor{
+    text-decoration: none;
+    color: aliceblue;
+}
