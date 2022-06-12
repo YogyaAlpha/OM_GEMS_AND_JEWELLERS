@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OM_GEMS_AND_JEWELLERS/static/css/main.c296a459.css",
+    "main.js": "/OM_GEMS_AND_JEWELLERS/static/js/main.85c45795.js",
+    "static/js/787.6521655c.chunk.js": "/OM_GEMS_AND_JEWELLERS/static/js/787.6521655c.chunk.js",
+    "static/media/MyLogo.png": "/OM_GEMS_AND_JEWELLERS/static/media/MyLogo.0b510d17dd86bd5005c5.png",
+    "static/media/Moissanite.jpg": "/OM_GEMS_AND_JEWELLERS/static/media/Moissanite.a7c38a8056c809ea6076.jpg",
+    "index.html": "/OM_GEMS_AND_JEWELLERS/index.html",
+    "main.c296a459.css.map": "/OM_GEMS_AND_JEWELLERS/static/css/main.c296a459.css.map",
+    "main.85c45795.js.map": "/OM_GEMS_AND_JEWELLERS/static/js/main.85c45795.js.map",
+    "787.6521655c.chunk.js.map": "/OM_GEMS_AND_JEWELLERS/static/js/787.6521655c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c296a459.css",
+    "static/js/main.85c45795.js"
+  ]
+}
