@@ -31,7 +31,7 @@ export default function Shop() {
         {
           imgUrl: 'https://www.linkpicture.com/q/Ruby-modified.png',
           title: 'Natural Ruby {Africa}',
-          body: "Wearing the Blue Sapphire provides protection against theft, terror, accidents, and problems caused due to natural calamities like storms, fire etc. Therefore blue sapphire acts like a shield protecting the person from all dangers.",
+          body: "It is also thought to boost creativity, spirituality, self-assurance, and wisdom. The stone is linked to the Manipura Chakra, which is located in the body's navel. Wearing this gemstone helps to open this chakra, instils a sense of responsibility in the wearer, and encourages leadership skills.",
           size:['3 carat', '3.5 carat', '4 carat', '4.5 carat', '5 carat', '5.5 carat', '6 carat', '6.5 carat', '7 carat', '7.5 carat', '8 carat', '8.5 carat', '9 carat', '9.5 carat', '10 carat', '10.5 carat', '11 carat', '11.5 carat', '12 carat', '15 carat']
         },
         {
